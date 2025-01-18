@@ -25,3 +25,14 @@
 - Integration with Git
 - Integration with Jenkins
 
+
+# Framework Project Structure
+![Framework Project Structure](src/test/resources/Screenshots/Framework Project Structure.png)
+
+
+# Allure Reports 
+![Allure Reports](src/test/resources/Screenshots/Allure Default Suite.png)
+
+![Allure Reports](src/test/resources/Screenshots/Allure Graphs Image.png)
+
+![Allure Reports](src/test/resources/Screenshots/Allure Suite Image.png)
